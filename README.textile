@@ -1,0 +1,15 @@
+h1. A Dropbox Slideshow Thing
+
+This Dropbox Slideshow Thing allows you to quickly put together a simple slideshow of images to share with others. Great for quickly getting design feedback on a series of images or sharing photos.
+
+h2. How to use This Dropbox Slideshow Thing
+
++ Download the files from "adropboxslideshowthing.com" :http://adropboxslideshowthing.com
++ Paste the folder into your Dropbox Public folder.
++ Page the images you'd like to include in your slideshow inside 'images'. (Maximum no. of images: 50)
++ In the folder 'images', rename the files according to the order you'd like them to be presented e.g. 1.png, 2.png, 3.jpg, 4.gif
++ In the root folder, right click 'slideshow.html' and select 'Dropbox > Copy Public Link'. Your sharing URL has been copied to your clipboard and you're now ready to share.
+
+h2. Contributing
+
+I've been using This Dropbox Slideshow Thing for a while now to quickly put together images into a slideshow that I need to share with clients. I've thrown this up on Github in the hope that if there's anyone who find this useful or likes the concept can go ahead and fork and improve on it. Pull Requests and Issues are greatly appreciated.
