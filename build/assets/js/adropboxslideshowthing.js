@@ -36,6 +36,7 @@ var slideshow = {
       // Not very elegant, but we're blindfolded here and have to guess what files we might be dealing with
       slideshow.buildSlides('png');
       slideshow.buildSlides('jpg');
+      slideshow.buildSlides('jpeg');
       slideshow.buildSlides('gif');
 
       slideshow.initialized = true;
