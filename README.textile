@@ -4,7 +4,7 @@ This Dropbox Slideshow Thing allows you to quickly put together a simple slidesh
 
 h2. How to use This Dropbox Slideshow Thing
 
-+ Download the files from "adropboxslideshowthing.com" :http://adropboxslideshowthing.com
++ Download the files from "adropboxslideshowthing.com":http://adropboxslideshowthing.com
 + Paste the folder into your Dropbox Public folder.
 + Page the images you'd like to include in your slideshow inside 'images'. (Maximum no. of images: 50)
 + In the folder 'images', rename the files according to the order you'd like them to be presented e.g. 1.png, 2.png, 3.jpg, 4.gif
